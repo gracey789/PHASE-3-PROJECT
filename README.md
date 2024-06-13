@@ -22,7 +22,7 @@ sqlite installed
 
 ### Installation instruction
 
-Git clone https://github.com/kenyantequila/phase3-project.git
+Git clone https://github.com/gracey789/PHASE-3-PROJECT
  
 
 # Live Link
